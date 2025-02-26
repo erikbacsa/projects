@@ -1,0 +1,8 @@
+MS1 marks as of MS1 with 10% penalty (90.0%) greater than MS1 mark as of Final (0%
+MS2 mark as of Final (100%) greater than MS2 marks as of MS2 with 10% penalty (90.0%)
+FS mark: (96%)
+Mark using 100% FS: (96%)
+Mark using 80% MS2 20% FS: (99.2%)
+Mark using 40% MS1 40% MS2 20% FS: (95.2%)
+Best: (99.2%)
+Final Score: (19.0/20)
