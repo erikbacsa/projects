@@ -1,7 +1,6 @@
 
 
 - [**Implementation and Theory**](#implementation-and-theory)
-    - [What you've given from input](#what-youre-given-from-input)
     - [Multi-File Structuve](#multi-file-structure)
     - [Makefile](#makefile)
     - [Vectors in 3 Dimensions](#vectors-in-3-dimensions)
